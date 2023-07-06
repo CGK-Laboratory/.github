@@ -1,7 +1,10 @@
-![image](https://github.com/CGK-Laboratory/.github/assets/133057205/79e7a933-7422-4cfb-a64d-335a86779bdb)
 
 
-# Welcome To The Constanza Garcia-Keller Lab!
+![image](https://github.com/CGK-Laboratory/.github/assets/133057205/8d953a9c-7f7c-467c-9540-a748011d97fc)
+
+
+
+# Welcome To The CGK Lab!
 
 
 The long-term goal of the Garcia Keller laboratory is to identify the neurological mechanisms underlying stress-induced vulnerability in the development of substance use disorders (SUDs), and in doing so, rationally design pharmacotherapeutic treatments. Converging epidemiological studies indicate that a history of acute life threatening events increases the incidence of post-traumatic stress disorder (PTSD), and a diagnosis for PTSD carries 30-50% comorbidity with SUDs. Such comorbidity results in greater drug use and poorer treatment outcomes. The lab uses a preclinical rodent model to understand how an acute stressful event can lead to addiction, not only facilitating drug self-administration but also precipitating relapse.
