@@ -11,7 +11,7 @@ Current ongoing projects aimed to 1) understand the neurocircuitry and cell-type
 Our codes!
 ------
 The CGK lab is starting its GitHub with two main codes, CellSelect-3DMorph and calcium Imaging Analysis code. 
-## CellSelect-3DMorph
+##  ![alt text](https://github.com/CGK-Laboratory/CellSelect_3DMorph/assets/133057205/d60b2df0-8cf7-4f96-a414-1ec078b68b2f "Logo Title Text 1")
 CellSelect-3DMorph is a MATLAB-based script that analyzes cell morphology from 3D images, by reconstructing the cells from the fluorescent pixels. The reconstruction is measuring all cells: cell volume and territorial volume, Ramification index, branch length, number of branches and end points, and more. CellSelect, as the name implies, adds the possibility of rejecting any cell that is not fully in the frame of the image and whose morphology cannot be calculated properly. To try it out click [here](https://github.com/CGK-Laboratory/CellSelect_3DMorph)
 
 CellSelect-3DMorph is a Forked code from Elisa York's [3DMorph](https://github.com/ElisaYork/3DMorph), which was updated and new features added. 
