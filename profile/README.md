@@ -14,11 +14,16 @@ Current ongoing projects aimed to 1) understand the neurocircuitry and cell-type
 Our codes!
 ------
 The CGK lab is starting its GitHub with two main codes, CellSelect-3DMorph and Calcium Imaging Analysis Code. 
-##  ![alt text](https://github.com/CGK-Laboratory/.github/assets/133057205/2d6d4003-04c6-4772-a32e-27d45efd12fa)
 
-CellSelect-3DMorph is a MATLAB-based script that analyzes cell morphology from 3D images, by reconstructing the cells from the fluorescent pixels. The reconstruction is measuring all cells: cell volume and territorial volume, Ramification index, branch length, number of branches and endpoints, and more. CellSelect, as the name implies, adds the possibility of rejecting any cell that is not fully in the frame of the image and whose morphology cannot be calculated properly. To try it out click [here](https://github.com/CGK-Laboratory/CellSelect_3DMorph)
+##  [![alt text](https://github.com/CGK-Laboratory/.github/assets/133057205/2d6d4003-04c6-4772-a32e-27d45efd12fa)](https://github.com/CGK-Laboratory/CellSelect_3DMorph) 
 
-CellSelect-3DMorph is a Forked code from Elisa York's [3DMorph](https://github.com/ElisaYork/3DMorph), which was updated and new features added. 
+[CellSelect-3DMorph](https://github.com/CGK-Laboratory/CellSelect_3DMorph) is a powerful tool for analyzing cell morphology from 3D images by reconstructing cells from fluorescent pixels. It measures multiple cellular parameters including cell volume, territorial volume, ramification index, branch length, number of branches, endpoints, and more. As its name suggests, CellSelect adds the ability to reject cells that are not fully within the image frame or whose morphology cannot be properly calculated, ensuring more accurate results.
+
+The tool is available in two versions:
+* A MATLAB script for users with MATLAB installation
+* A standalone Windows application that doesn't require MATLAB
+
+CellSelect-3DMorph is a fork of Elisa York's [3DMorph](https://github.com/ElisaYork/3DMorph), enhanced with new features and improvements.
 
 ## Calcium Imaging 
 Pipeline for [calcium imaging](https://github.com/CGK-Laboratory/calcium_imaging_analysis_pipeline) future updates to come. 
